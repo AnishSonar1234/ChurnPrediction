@@ -26,9 +26,8 @@ This project includes:
 ---
 
 ## 📁 Project Structure
-├── churn.ipynb # Data cleaning & preprocessing
-├── model.ipynb # Model training & evaluation
-├── tel_churn.csv # Processed dataset
+├── churn.ipynb # Data cleaning & preprocessing  
+├── model.ipynb # Model training & evaluation  
 ├── README.md # Project documentation
 
 ---
