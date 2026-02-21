@@ -2,7 +2,7 @@
 
 This project builds a **Customer Churn Prediction Model** using Machine Learning techniques.  
 The goal is to predict whether a customer will leave (churn) based on demographic and service usage data.
-
+![Buinesss Idealogy]()
 ---
 
 ## 🚀 Project Overview
