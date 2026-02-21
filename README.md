@@ -74,6 +74,9 @@ df_dummies['Churn'] = df_dummies['Churn'].map({'Yes':1, 'No':0})
 ```python
 df_dummies.to_csv("tel_churn.csv", index=False)
 ```
+---
+🤖 2️⃣ Model Building (model.ipynb)
+---
 
 📌 Step 1: Import Libraries
 ```python
